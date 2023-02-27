@@ -34,7 +34,6 @@ public class ReturnArrayContents {
           String chInt = String.valueOf(nums[i]); 
             str += " " + chInt;
            
-            
          }
     return str;
     }
